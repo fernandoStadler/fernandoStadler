@@ -15,12 +15,16 @@
   ##
   
   <div align="center">
-       <h3> Badges Alura</h3>
+       <h3> Badges</h3>
   </div>
-  <div style="display:flex">
-      <img align="center" alt="Fernando-badges" height="100" width="100" src="BADGE_2.png">
-   <div>
+  <div style="display:flex; " align="center">
+      <img align="center" alt="Fernando-badges" height="100" width="100" src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png">
+          <img align="center" alt="Fernando-badges" height="100" width="100" src="https://images.credly.com/size/340x340/images/e21bec0d-2733-49f8-bebe-1d116af63032/Kanban-Essentials-Professional-Certificate-KEPC.png">
+          <img align="center" alt="Fernando-badges" height="100" width="100" src="BADGE_2.png">
+
+   <div/>
   
+    
   ##
  
 <div> 
