@@ -1,7 +1,7 @@
 #### Olá,🤓​ me chamo Fernando Stadler, morador da grande São Paulo e apaixonado por tecnologia desde criança.
 
  <div style="display:flex; " align="center">
-      <img align="center" alt="Fernando-badges" width="800" src="capa.png">
+      <img align="center" alt="Fernando-badges" width="800" src="banner.png">
   </div>
   
   ##
