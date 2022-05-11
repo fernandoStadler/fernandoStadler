@@ -1,4 +1,11 @@
 #### Olá,🤓​ me chamo Fernando Stadler, morador da grande São Paulo e apaixonado por tecnologia desde criança.
+
+ <div style="display:flex; " align="center">
+      <img align="center" alt="Fernando-badges" width="800" src="capa.png">
+  </div>
+  
+  ##
+  
 <div align="center">
   <a href="https://github.com/fernandoStadler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoStadler&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
