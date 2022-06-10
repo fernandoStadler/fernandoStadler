@@ -29,7 +29,7 @@
            <img align="center" alt="Fernando-badges"  width="150" src="JS-Badge.png">
    <div/>
      <div align="center">
-       <h3>Badges Gerais</h3>
+       <h3>Badges CertiProf</h3>
   </div>
   <div style="display:flex; " align="center">
       <img align="center" alt="Fernando-badges" width="150" src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png">
