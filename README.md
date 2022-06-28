@@ -27,6 +27,8 @@
    <div style="display:flex; " align="center">
           <img align="center" alt="Fernando-badges"  width="150" src="BADGE_2.png">
            <img align="center" alt="Fernando-badges"  width="150" src="JS-Badge.png">
+           <img align="center" alt="Fernando-badges"  width="150" src="Insignia_3.png">
+
    <div/>
      <div align="center">
        <h3>Badges CertiProf</h3>
