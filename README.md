@@ -28,6 +28,7 @@
           <img align="center" alt="Fernando-badges"  width="150" src="BADGE_2.png">
            <img align="center" alt="Fernando-badges"  width="150" src="JS-Badge.png">
            <img align="center" alt="Fernando-badges"  width="150" src="Insignia_3.png">
+            <img align="center" alt="Fernando-badges"  width="150" src="badeg3.png">
 
    <div/>
      <div align="center">
