@@ -9,7 +9,20 @@ Em resumo, sou um desenvolvedor apaixonado pela tecnologia, que busca constantem
  <div style="display:flex; " align="center">
       <img align="center" alt="Fernando-badges" width="800" src="banner.png">
   </div>
+
+  <div align="center">
+       <h3>Tecnologias</h3>
+  </div>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fernando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Fernando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
   
+  ##
 
   <div align="center">
        <h3>Badges Alura</h3>
