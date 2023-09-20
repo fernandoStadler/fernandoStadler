@@ -1,4 +1,4 @@
-#### Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul e atualmente estou cursando MBA em Gestão de Projetos pela renomada Universidade de São Paulo (USP). Apaixonado por tecnologia e desde cedo decidi seguir carreira na área de desenvolvimento de software.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul e atualmente estou cursando MBA em Gestão de Projetos pela renomada Universidade de São Paulo (USP). Apaixonado por tecnologia e desde cedo decidi seguir carreira na área de desenvolvimento de software.
 
 Minha experiência profissional me permitiu trabalhar com diferentes tecnologias, como HTML, CSS, JavaScript, React Js, Next Js e Node como stack principais, também estou estudando PHP com Laravel e Angular como Stack secundarias. Através do uso dessas ferramentas, desenvolvi habilidades que me permitem criar soluções personalizadas para atender às necessidades específicas de cada projeto. Além disso, possuo conhecimentos em metodologias ágeis, especialmente em Scrum.
 
