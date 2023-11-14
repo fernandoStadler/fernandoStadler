@@ -42,7 +42,6 @@ Em resumo, sou um desenvolvedor apaixonado pela tecnologia, que busca constantem
   </div>
   <div style="display:flex; " align="center">
           <img align="center" alt="Fernando-badges"  width="150" src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png">        
-   <img align="center" alt="Fernando-badges"  width="150" src="https://images.credly.com/size/340x340/images/e21bec0d-2733-49f8-bebe-1d116af63032/Kanban-Essentials-Professional-Certificate-KEPC.png">
      <img align="center" alt="Fernando-badges" width="150" src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png">
    <div/>
 
